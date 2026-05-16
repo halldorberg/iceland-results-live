@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T23:31:36Z",
+  "updatedAt": "2026-05-16T23:53:17Z",
   "munis": {
     "akranes": {
       "totalSeats": 9,
@@ -237,7 +237,22 @@
     },
     "floahreppur": {
       "totalSeats": 5,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T23:42:53Z",
+          "votesCounted": 479,
+          "parties": {
+            "FLI": {
+              "pct": 76.77,
+              "seats": 4
+            },
+            "FLT": {
+              "pct": 23.23,
+              "seats": 1
+            }
+          }
+        }
+      ]
     },
     "gardabaer": {
       "totalSeats": 11,
@@ -249,7 +264,26 @@
     },
     "grindavik": {
       "totalSeats": 7,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T23:33:00Z",
+          "votesCounted": 499,
+          "parties": {
+            "B": {
+              "pct": 44.15,
+              "seats": 3
+            },
+            "D": {
+              "pct": 41.53,
+              "seats": 3
+            },
+            "M": {
+              "pct": 14.31,
+              "seats": 1
+            }
+          }
+        }
+      ]
     },
     "grundarfjordur": {
       "totalSeats": 7,
@@ -257,7 +291,38 @@
     },
     "hafnarfjordur": {
       "totalSeats": 11,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T23:34:35Z",
+          "votesCounted": 9200,
+          "parties": {
+            "D": {
+              "pct": 27.17,
+              "seats": 3
+            },
+            "B": {
+              "pct": 25.0,
+              "seats": 3
+            },
+            "S": {
+              "pct": 17.39,
+              "seats": 2
+            },
+            "C": {
+              "pct": 14.13,
+              "seats": 2
+            },
+            "M": {
+              "pct": 11.96,
+              "seats": 1
+            },
+            "A": {
+              "pct": 4.35,
+              "seats": 0
+            }
+          }
+        }
+      ]
     },
     "horgarsv": {
       "totalSeats": 5,
@@ -277,7 +342,26 @@
     },
     "hunathing": {
       "totalSeats": 7,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T23:39:09Z",
+          "votesCounted": 713,
+          "parties": {
+            "NHV": {
+              "pct": 37.77,
+              "seats": 3
+            },
+            "B": {
+              "pct": 34.19,
+              "seats": 2
+            },
+            "D": {
+              "pct": 28.04,
+              "seats": 2
+            }
+          }
+        }
+      ]
     },
     "hvalfjardarsveit": {
       "totalSeats": 7,
@@ -484,7 +568,26 @@
     },
     "rangarthingeystra": {
       "totalSeats": 7,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T23:32:21Z",
+          "votesCounted": 1145,
+          "parties": {
+            "D": {
+              "pct": 55.08,
+              "seats": 4
+            },
+            "B": {
+              "pct": 28.24,
+              "seats": 2
+            },
+            "NRE": {
+              "pct": 16.68,
+              "seats": 1
+            }
+          }
+        }
+      ]
     },
     "rangarthingytra": {
       "totalSeats": 7,
@@ -768,7 +871,22 @@
     },
     "stykkisholmur": {
       "totalSeats": 7,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T23:31:33Z",
+          "votesCounted": 801,
+          "parties": {
+            "FLS": {
+              "pct": 60.18,
+              "seats": 4
+            },
+            "IBU": {
+              "pct": 39.82,
+              "seats": 3
+            }
+          }
+        }
+      ]
     },
     "sudavik": {
       "totalSeats": 5,
@@ -895,7 +1013,26 @@
     },
     "vestmannaeyjar": {
       "totalSeats": 9,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T23:38:02Z",
+          "votesCounted": 1077,
+          "parties": {
+            "D": {
+              "pct": 55.66,
+              "seats": 5
+            },
+            "M": {
+              "pct": 23.98,
+              "seats": 2
+            },
+            "E": {
+              "pct": 20.36,
+              "seats": 2
+            }
+          }
+        }
+      ]
     },
     "vesturbyggd": {
       "totalSeats": 7,
