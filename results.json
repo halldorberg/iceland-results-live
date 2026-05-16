@@ -1,9 +1,36 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-05-16T22:52:02Z",
   "munis": {
     "akranes": {
       "totalSeats": 9,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T22:42:56Z",
+          "votesCounted": 1646,
+          "parties": {
+            "D": {
+              "pct": 34.93,
+              "seats": 4
+            },
+            "S": {
+              "pct": 23.29,
+              "seats": 2
+            },
+            "B": {
+              "pct": 22.91,
+              "seats": 2
+            },
+            "C": {
+              "pct": 10.21,
+              "seats": 1
+            },
+            "M": {
+              "pct": 8.66,
+              "seats": 0
+            }
+          }
+        }
+      ]
     },
     "akureyri": {
       "totalSeats": 11,
@@ -15,7 +42,22 @@
     },
     "arneshr": {
       "totalSeats": 5,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T22:28:43Z",
+          "votesCounted": 54,
+          "parties": {
+            "ARNA": {
+              "pct": 58.49,
+              "seats": 3
+            },
+            "ARNS": {
+              "pct": 41.51,
+              "seats": 2
+            }
+          }
+        }
+      ]
     },
     "blaskogabyggd": {
       "totalSeats": 7,
@@ -103,11 +145,57 @@
     },
     "kjosarhreppur": {
       "totalSeats": 5,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-04-20T15:18:39Z",
+          "votesCounted": 1,
+          "parties": {
+            "KJA": {
+              "pct": 100.0,
+              "seats": 5
+            }
+          }
+        }
+      ]
     },
     "kopavogur": {
       "totalSeats": 11,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T22:17:43Z",
+          "votesCounted": 10087,
+          "parties": {
+            "D": {
+              "pct": 45.84,
+              "seats": 6
+            },
+            "S": {
+              "pct": 19.27,
+              "seats": 2
+            },
+            "B": {
+              "pct": 10.82,
+              "seats": 1
+            },
+            "M": {
+              "pct": 9.87,
+              "seats": 1
+            },
+            "C": {
+              "pct": 9.64,
+              "seats": 1
+            },
+            "V": {
+              "pct": 2.87,
+              "seats": 0
+            },
+            "J": {
+              "pct": 1.69,
+              "seats": 0
+            }
+          }
+        }
+      ]
     },
     "mosfellsbaer": {
       "totalSeats": 11,
@@ -139,11 +227,53 @@
     },
     "reykholar": {
       "totalSeats": 5,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T22:01:04Z",
+          "votesCounted": 166,
+          "parties": {
+            "ROA": {
+              "pct": 71.52,
+              "seats": 4
+            },
+            "S": {
+              "pct": 28.48,
+              "seats": 1
+            }
+          }
+        }
+      ]
     },
     "reykjanesbaer": {
       "totalSeats": 11,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T22:35:57Z",
+          "votesCounted": 5213,
+          "parties": {
+            "D": {
+              "pct": 38.43,
+              "seats": 5
+            },
+            "B": {
+              "pct": 26.58,
+              "seats": 3
+            },
+            "S": {
+              "pct": 18.77,
+              "seats": 2
+            },
+            "M": {
+              "pct": 11.14,
+              "seats": 1
+            },
+            "C": {
+              "pct": 5.07,
+              "seats": 0
+            }
+          }
+        }
+      ]
     },
     "reykjavik": {
       "totalSeats": 23,
@@ -155,7 +285,22 @@
     },
     "skaftarhreppur": {
       "totalSeats": 5,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T20:30:31Z",
+          "votesCounted": 330,
+          "parties": {
+            "D": {
+              "pct": 62.19,
+              "seats": 3
+            },
+            "SKO": {
+              "pct": 37.81,
+              "seats": 2
+            }
+          }
+        }
+      ]
     },
     "skagafjordur": {
       "totalSeats": 9,
@@ -167,15 +312,60 @@
     },
     "skeidagnup": {
       "totalSeats": 5,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T22:06:11Z",
+          "votesCounted": 424,
+          "parties": {
+            "SGL": {
+              "pct": 57.28,
+              "seats": 3
+            },
+            "SGE": {
+              "pct": 42.72,
+              "seats": 2
+            }
+          }
+        }
+      ]
     },
     "snaefellsbaer": {
       "totalSeats": 7,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-04-20T15:19:38Z",
+          "votesCounted": 1,
+          "parties": {
+            "D": {
+              "pct": 100.0,
+              "seats": 7
+            }
+          }
+        }
+      ]
     },
     "strandabyggd": {
       "totalSeats": 5,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T20:51:14Z",
+          "votesCounted": 301,
+          "parties": {
+            "VGV": {
+              "pct": 49.65,
+              "seats": 3
+            },
+            "B": {
+              "pct": 26.06,
+              "seats": 1
+            },
+            "SBD": {
+              "pct": 24.3,
+              "seats": 1
+            }
+          }
+        }
+      ]
     },
     "stykkisholmur": {
       "totalSeats": 7,
@@ -187,11 +377,53 @@
     },
     "sudurnesjabaer": {
       "totalSeats": 9,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T22:17:50Z",
+          "votesCounted": 1054,
+          "parties": {
+            "S": {
+              "pct": 33.63,
+              "seats": 3
+            },
+            "D": {
+              "pct": 26.8,
+              "seats": 3
+            },
+            "B": {
+              "pct": 22.9,
+              "seats": 2
+            },
+            "M": {
+              "pct": 16.67,
+              "seats": 1
+            }
+          }
+        }
+      ]
     },
     "svalbardsstrond": {
       "totalSeats": 5,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-16T20:15:14Z",
+          "votesCounted": 295,
+          "parties": {
+            "SVSO": {
+              "pct": 42.01,
+              "seats": 2
+            },
+            "SVSH": {
+              "pct": 34.72,
+              "seats": 2
+            },
+            "SVSS": {
+              "pct": 23.26,
+              "seats": 1
+            }
+          }
+        }
+      ]
     },
     "thingeyjarsveit": {
       "totalSeats": 9,
@@ -199,7 +431,18 @@
     },
     "tjornes": {
       "totalSeats": 3,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-04-20T15:18:11Z",
+          "votesCounted": 1,
+          "parties": {
+            "TJN": {
+              "pct": 100.0,
+              "seats": 3
+            }
+          }
+        }
+      ]
     },
     "vestmannaeyjar": {
       "totalSeats": 9,
@@ -215,7 +458,18 @@
     },
     "vopnafjordur": {
       "totalSeats": 7,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-04-20T15:19:25Z",
+          "votesCounted": 1,
+          "parties": {
+            "VOP": {
+              "pct": 100.0,
+              "seats": 7
+            }
+          }
+        }
+      ]
     }
   }
 }
