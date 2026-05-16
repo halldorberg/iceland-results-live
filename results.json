@@ -1,0 +1,221 @@
+{
+  "updatedAt": null,
+  "munis": {
+    "akranes": {
+      "totalSeats": 9,
+      "snapshots": []
+    },
+    "akureyri": {
+      "totalSeats": 11,
+      "snapshots": []
+    },
+    "arborg": {
+      "totalSeats": 11,
+      "snapshots": []
+    },
+    "arneshr": {
+      "totalSeats": 5,
+      "snapshots": []
+    },
+    "blaskogabyggd": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "bolungarvik": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "borgarbyggd": {
+      "totalSeats": 9,
+      "snapshots": []
+    },
+    "dalvikurbyggd": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "eyjafjardarsveit": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "fjallabyggd": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "fjardabyggd": {
+      "totalSeats": 9,
+      "snapshots": []
+    },
+    "floahreppur": {
+      "totalSeats": 5,
+      "snapshots": []
+    },
+    "gardabaer": {
+      "totalSeats": 11,
+      "snapshots": []
+    },
+    "grimsnesgrafningur": {
+      "totalSeats": 5,
+      "snapshots": []
+    },
+    "grindavik": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "grundarfjordur": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "hafnarfjordur": {
+      "totalSeats": 11,
+      "snapshots": []
+    },
+    "horgarsv": {
+      "totalSeats": 5,
+      "snapshots": []
+    },
+    "hornafjordur": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "hrunamannahreppur": {
+      "totalSeats": 5,
+      "snapshots": []
+    },
+    "hunabyggd": {
+      "totalSeats": 9,
+      "snapshots": []
+    },
+    "hunathing": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "hvalfjardarsveit": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "hveragerdi": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "isafjordur": {
+      "totalSeats": 9,
+      "snapshots": []
+    },
+    "kjosarhreppur": {
+      "totalSeats": 5,
+      "snapshots": []
+    },
+    "kopavogur": {
+      "totalSeats": 11,
+      "snapshots": []
+    },
+    "mosfellsbaer": {
+      "totalSeats": 11,
+      "snapshots": []
+    },
+    "mulathing": {
+      "totalSeats": 11,
+      "snapshots": []
+    },
+    "myrdalshr": {
+      "totalSeats": 5,
+      "snapshots": []
+    },
+    "nordurping": {
+      "totalSeats": 9,
+      "snapshots": []
+    },
+    "olfus": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "rangarthingeystra": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "rangarthingytra": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "reykholar": {
+      "totalSeats": 5,
+      "snapshots": []
+    },
+    "reykjanesbaer": {
+      "totalSeats": 11,
+      "snapshots": []
+    },
+    "reykjavik": {
+      "totalSeats": 23,
+      "snapshots": []
+    },
+    "seltjarnarnes": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "skaftarhreppur": {
+      "totalSeats": 5,
+      "snapshots": []
+    },
+    "skagafjordur": {
+      "totalSeats": 9,
+      "snapshots": []
+    },
+    "skagastrond": {
+      "totalSeats": 5,
+      "snapshots": []
+    },
+    "skeidagnup": {
+      "totalSeats": 5,
+      "snapshots": []
+    },
+    "snaefellsbaer": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "strandabyggd": {
+      "totalSeats": 5,
+      "snapshots": []
+    },
+    "stykkisholmur": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "sudavik": {
+      "totalSeats": 5,
+      "snapshots": []
+    },
+    "sudurnesjabaer": {
+      "totalSeats": 9,
+      "snapshots": []
+    },
+    "svalbardsstrond": {
+      "totalSeats": 5,
+      "snapshots": []
+    },
+    "thingeyjarsveit": {
+      "totalSeats": 9,
+      "snapshots": []
+    },
+    "tjornes": {
+      "totalSeats": 3,
+      "snapshots": []
+    },
+    "vestmannaeyjar": {
+      "totalSeats": 9,
+      "snapshots": []
+    },
+    "vesturbyggd": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "vogar": {
+      "totalSeats": 7,
+      "snapshots": []
+    },
+    "vopnafjordur": {
+      "totalSeats": 7,
+      "snapshots": []
+    }
+  }
+}
