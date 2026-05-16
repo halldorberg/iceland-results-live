@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T20:01:34Z",
+  "updatedAt": null,
   "munis": {
     "akranes": {
       "totalSeats": 9,
@@ -147,58 +147,7 @@
     },
     "reykjavik": {
       "totalSeats": 23,
-      "snapshots": [
-        {
-          "at": "2026-05-16T22:33:00Z",
-          "votesCounted": 4242,
-          "parties": {
-            "D": {
-              "pct": 31.0,
-              "seats": 8
-            },
-            "S": {
-              "pct": 20.0,
-              "seats": 5
-            },
-            "C": {
-              "pct": 12.0,
-              "seats": 3
-            },
-            "A": {
-              "pct": 11.0,
-              "seats": 3
-            },
-            "M": {
-              "pct": 10.0,
-              "seats": 2
-            },
-            "B": {
-              "pct": 6.0,
-              "seats": 1
-            },
-            "J": {
-              "pct": 5.0,
-              "seats": 1
-            },
-            "F": {
-              "pct": 2.0,
-              "seats": 0
-            },
-            "P": {
-              "pct": 2.0,
-              "seats": 0
-            },
-            "G": {
-              "pct": 0.5,
-              "seats": 0
-            },
-            "R": {
-              "pct": 0.5,
-              "seats": 0
-            }
-          }
-        }
-      ]
+      "snapshots": []
     },
     "seltjarnarnes": {
       "totalSeats": 7,
