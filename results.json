@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T00:13:07Z",
+  "updatedAt": "2026-05-17T00:29:01Z",
   "munis": {
     "akranes": {
       "totalSeats": 9,
@@ -213,7 +213,30 @@
     },
     "dalvikurbyggd": {
       "totalSeats": 7,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-17T00:06:45Z",
+          "votesCounted": 1103,
+          "parties": {
+            "K": {
+              "pct": 47.94,
+              "seats": 3
+            },
+            "D": {
+              "pct": 24.06,
+              "seats": 2
+            },
+            "B": {
+              "pct": 15.45,
+              "seats": 1
+            },
+            "A": {
+              "pct": 12.55,
+              "seats": 1
+            }
+          }
+        }
+      ]
     },
     "eyjafjardarsveit": {
       "totalSeats": 7,
@@ -247,6 +270,28 @@
               "seats": 2
             }
           }
+        },
+        {
+          "at": "2026-05-17T00:10:37Z",
+          "votesCounted": 2353,
+          "parties": {
+            "D": {
+              "pct": 29.73,
+              "seats": 3
+            },
+            "S": {
+              "pct": 28.03,
+              "seats": 2
+            },
+            "M": {
+              "pct": 22.93,
+              "seats": 2
+            },
+            "B": {
+              "pct": 19.31,
+              "seats": 2
+            }
+          }
         }
       ]
     },
@@ -271,7 +316,38 @@
     },
     "gardabaer": {
       "totalSeats": 11,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-17T00:08:22Z",
+          "votesCounted": 6461,
+          "parties": {
+            "D": {
+              "pct": 57.98,
+              "seats": 8
+            },
+            "S": {
+              "pct": 11.47,
+              "seats": 1
+            },
+            "B": {
+              "pct": 9.29,
+              "seats": 1
+            },
+            "GB": {
+              "pct": 8.78,
+              "seats": 1
+            },
+            "M": {
+              "pct": 6.41,
+              "seats": 0
+            },
+            "C": {
+              "pct": 6.08,
+              "seats": 0
+            }
+          }
+        }
+      ]
     },
     "grimsnesgrafningur": {
       "totalSeats": 5,
@@ -312,6 +388,24 @@
             },
             "M": {
               "pct": 14.29,
+              "seats": 1
+            }
+          }
+        },
+        {
+          "at": "2026-05-17T00:12:55Z",
+          "votesCounted": 842,
+          "parties": {
+            "B": {
+              "pct": 43.85,
+              "seats": 3
+            },
+            "D": {
+              "pct": 41.94,
+              "seats": 3
+            },
+            "M": {
+              "pct": 14.22,
               "seats": 1
             }
           }
@@ -359,7 +453,26 @@
     },
     "horgarsv": {
       "totalSeats": 5,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-17T00:20:18Z",
+          "votesCounted": 512,
+          "parties": {
+            "HGG": {
+              "pct": 47.82,
+              "seats": 2
+            },
+            "D": {
+              "pct": 34.52,
+              "seats": 2
+            },
+            "HGH": {
+              "pct": 17.66,
+              "seats": 1
+            }
+          }
+        }
+      ]
     },
     "hornafjordur": {
       "totalSeats": 7,
@@ -1140,7 +1253,26 @@
     },
     "thingeyjarsveit": {
       "totalSeats": 9,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-17T00:12:48Z",
+          "votesCounted": 818,
+          "parties": {
+            "THVA": {
+              "pct": 49.12,
+              "seats": 5
+            },
+            "THVL": {
+              "pct": 29.22,
+              "seats": 2
+            },
+            "THVN": {
+              "pct": 21.66,
+              "seats": 2
+            }
+          }
+        }
+      ]
     },
     "tjornes": {
       "totalSeats": 3,
@@ -1184,6 +1316,24 @@
             },
             "E": {
               "pct": 20.36,
+              "seats": 2
+            }
+          }
+        },
+        {
+          "at": "2026-05-17T00:23:08Z",
+          "votesCounted": 2649,
+          "parties": {
+            "D": {
+              "pct": 55.7,
+              "seats": 5
+            },
+            "M": {
+              "pct": 25.19,
+              "seats": 2
+            },
+            "E": {
+              "pct": 19.11,
               "seats": 2
             }
           }
