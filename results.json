@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T01:22:20Z",
+  "updatedAt": "2026-05-17T01:40:43Z",
   "munis": {
     "akranes": {
       "totalSeats": 9,
@@ -81,6 +81,32 @@
               "seats": 1
             }
           }
+        },
+        {
+          "at": "2026-05-17T01:27:59Z",
+          "votesCounted": 4390,
+          "parties": {
+            "D": {
+              "pct": 33.64,
+              "seats": 3
+            },
+            "B": {
+              "pct": 23.65,
+              "seats": 2
+            },
+            "S": {
+              "pct": 22.31,
+              "seats": 2
+            },
+            "C": {
+              "pct": 10.67,
+              "seats": 1
+            },
+            "M": {
+              "pct": 9.73,
+              "seats": 1
+            }
+          }
         }
       ]
     },
@@ -159,6 +185,44 @@
             },
             "C": {
               "pct": 5.72,
+              "seats": 0
+            }
+          }
+        },
+        {
+          "at": "2026-05-17T01:27:18Z",
+          "votesCounted": 9400,
+          "parties": {
+            "D": {
+              "pct": 19.52,
+              "seats": 2
+            },
+            "L": {
+              "pct": 18.95,
+              "seats": 2
+            },
+            "S": {
+              "pct": 16.89,
+              "seats": 2
+            },
+            "B": {
+              "pct": 15.19,
+              "seats": 2
+            },
+            "M": {
+              "pct": 7.99,
+              "seats": 1
+            },
+            "V": {
+              "pct": 7.87,
+              "seats": 1
+            },
+            "AL": {
+              "pct": 7.6,
+              "seats": 1
+            },
+            "C": {
+              "pct": 5.99,
               "seats": 0
             }
           }
@@ -675,7 +739,26 @@
     },
     "hunabyggd": {
       "totalSeats": 9,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-17T01:22:00Z",
+          "votesCounted": 897,
+          "parties": {
+            "D": {
+              "pct": 50.68,
+              "seats": 5
+            },
+            "B": {
+              "pct": 33.94,
+              "seats": 3
+            },
+            "HBA": {
+              "pct": 15.38,
+              "seats": 1
+            }
+          }
+        }
+      ]
     },
     "hunathing": {
       "totalSeats": 7,
@@ -1381,6 +1464,28 @@
             },
             "M": {
               "pct": 13.18,
+              "seats": 1
+            }
+          }
+        },
+        {
+          "at": "2026-05-17T01:29:02Z",
+          "votesCounted": 2559,
+          "parties": {
+            "SFL": {
+              "pct": 33.61,
+              "seats": 3
+            },
+            "D": {
+              "pct": 30.73,
+              "seats": 3
+            },
+            "B": {
+              "pct": 22.88,
+              "seats": 2
+            },
+            "M": {
+              "pct": 12.78,
               "seats": 1
             }
           }
