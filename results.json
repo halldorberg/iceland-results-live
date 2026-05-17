@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T03:07:31Z",
+  "updatedAt": "2026-05-17T03:13:07Z",
   "munis": {
     "akranes": {
       "totalSeats": 9,
@@ -1876,7 +1876,22 @@
     },
     "sudavik": {
       "totalSeats": 5,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-17T03:07:22Z",
+          "votesCounted": 145,
+          "parties": {
+            "FTL": {
+              "pct": 63.19,
+              "seats": 3
+            },
+            "FJL": {
+              "pct": 36.81,
+              "seats": 2
+            }
+          }
+        }
+      ]
     },
     "sudurnesjabaer": {
       "totalSeats": 9,
