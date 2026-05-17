@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T02:34:24Z",
+  "updatedAt": "2026-05-17T02:39:58Z",
   "munis": {
     "akranes": {
       "totalSeats": 9,
@@ -424,7 +424,26 @@
     },
     "fjallabyggd": {
       "totalSeats": 7,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-17T02:38:25Z",
+          "votesCounted": 1202,
+          "parties": {
+            "D": {
+              "pct": 35.68,
+              "seats": 3
+            },
+            "H": {
+              "pct": 33.47,
+              "seats": 2
+            },
+            "S": {
+              "pct": 30.84,
+              "seats": 2
+            }
+          }
+        }
+      ]
     },
     "fjardabyggd": {
       "totalSeats": 9,
