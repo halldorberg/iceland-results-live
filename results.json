@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T00:29:01Z",
+  "updatedAt": "2026-05-17T00:38:41Z",
   "munis": {
     "akranes": {
       "totalSeats": 9,
@@ -240,7 +240,22 @@
     },
     "eyjafjardarsveit": {
       "totalSeats": 7,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-17T00:25:47Z",
+          "votesCounted": 679,
+          "parties": {
+            "EJF": {
+              "pct": 62.67,
+              "seats": 5
+            },
+            "EJK": {
+              "pct": 37.33,
+              "seats": 2
+            }
+          }
+        }
+      ]
     },
     "fjallabyggd": {
       "totalSeats": 7,
@@ -545,7 +560,30 @@
     },
     "hveragerdi": {
       "totalSeats": 7,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-17T00:32:25Z",
+          "votesCounted": 2004,
+          "parties": {
+            "D": {
+              "pct": 43.91,
+              "seats": 3
+            },
+            "OKH": {
+              "pct": 28.25,
+              "seats": 2
+            },
+            "B": {
+              "pct": 14.91,
+              "seats": 1
+            },
+            "S": {
+              "pct": 12.94,
+              "seats": 1
+            }
+          }
+        }
+      ]
     },
     "isafjordur": {
       "totalSeats": 9,
@@ -796,7 +834,22 @@
     },
     "olfus": {
       "totalSeats": 7,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-17T00:23:44Z",
+          "votesCounted": 1573,
+          "parties": {
+            "D": {
+              "pct": 69.3,
+              "seats": 5
+            },
+            "S": {
+              "pct": 30.7,
+              "seats": 2
+            }
+          }
+        }
+      ]
     },
     "rangarthingeystra": {
       "totalSeats": 7,
@@ -992,7 +1045,30 @@
     },
     "skagafjordur": {
       "totalSeats": 9,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-17T00:33:55Z",
+          "votesCounted": 2085,
+          "parties": {
+            "SFL": {
+              "pct": 34.92,
+              "seats": 3
+            },
+            "D": {
+              "pct": 30.35,
+              "seats": 3
+            },
+            "B": {
+              "pct": 21.54,
+              "seats": 2
+            },
+            "M": {
+              "pct": 13.18,
+              "seats": 1
+            }
+          }
+        }
+      ]
     },
     "skagastrond": {
       "totalSeats": 5,
