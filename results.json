@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T02:18:32Z",
+  "updatedAt": "2026-05-17T02:34:24Z",
   "munis": {
     "akranes": {
       "totalSeats": 9,
@@ -1096,7 +1096,34 @@
     },
     "mulathing": {
       "totalSeats": 11,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-17T02:32:27Z",
+          "votesCounted": 2630,
+          "parties": {
+            "D": {
+              "pct": 30.25,
+              "seats": 4
+            },
+            "B": {
+              "pct": 24.23,
+              "seats": 3
+            },
+            "V": {
+              "pct": 19.49,
+              "seats": 2
+            },
+            "M": {
+              "pct": 14.79,
+              "seats": 1
+            },
+            "L": {
+              "pct": 11.23,
+              "seats": 1
+            }
+          }
+        }
+      ]
     },
     "myrdalshr": {
       "totalSeats": 5,
