@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T04:11:07Z",
+  "updatedAt": "2026-05-17T04:58:12Z",
   "munis": {
     "akranes": {
       "totalSeats": 9,
@@ -624,6 +624,36 @@
             },
             "C": {
               "pct": 6.08,
+              "seats": 0
+            }
+          }
+        },
+        {
+          "at": "2026-05-17T04:56:48Z",
+          "votesCounted": 11626,
+          "parties": {
+            "D": {
+              "pct": 57.97,
+              "seats": 8
+            },
+            "S": {
+              "pct": 11.54,
+              "seats": 1
+            },
+            "B": {
+              "pct": 8.93,
+              "seats": 1
+            },
+            "GB": {
+              "pct": 8.62,
+              "seats": 1
+            },
+            "M": {
+              "pct": 6.65,
+              "seats": 0
+            },
+            "C": {
+              "pct": 6.29,
               "seats": 0
             }
           }
