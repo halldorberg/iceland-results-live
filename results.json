@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T01:12:58Z",
+  "updatedAt": "2026-05-17T01:22:20Z",
   "munis": {
     "akranes": {
       "totalSeats": 9,
@@ -269,6 +269,28 @@
             },
             "M": {
               "pct": 21.7,
+              "seats": 2
+            }
+          }
+        },
+        {
+          "at": "2026-05-17T01:16:26Z",
+          "votesCounted": 2146,
+          "parties": {
+            "D": {
+              "pct": 29.26,
+              "seats": 3
+            },
+            "B": {
+              "pct": 25.36,
+              "seats": 2
+            },
+            "A": {
+              "pct": 23.48,
+              "seats": 2
+            },
+            "M": {
+              "pct": 21.9,
               "seats": 2
             }
           }
@@ -1211,7 +1233,58 @@
     },
     "reykjavik": {
       "totalSeats": 23,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-17T01:18:37Z",
+          "votesCounted": 44300,
+          "parties": {
+            "D": {
+              "pct": 31.9,
+              "seats": 9
+            },
+            "S": {
+              "pct": 18.56,
+              "seats": 5
+            },
+            "M": {
+              "pct": 13.09,
+              "seats": 3
+            },
+            "C": {
+              "pct": 10.09,
+              "seats": 2
+            },
+            "A": {
+              "pct": 9.42,
+              "seats": 2
+            },
+            "B": {
+              "pct": 6.85,
+              "seats": 1
+            },
+            "J": {
+              "pct": 4.08,
+              "seats": 1
+            },
+            "F": {
+              "pct": 3.3,
+              "seats": 0
+            },
+            "P": {
+              "pct": 1.81,
+              "seats": 0
+            },
+            "G": {
+              "pct": 0.48,
+              "seats": 0
+            },
+            "R": {
+              "pct": 0.41,
+              "seats": 0
+            }
+          }
+        }
+      ]
     },
     "seltjarnarnes": {
       "totalSeats": 7,
@@ -1662,7 +1735,22 @@
     },
     "vesturbyggd": {
       "totalSeats": 7,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-17T01:18:41Z",
+          "votesCounted": 666,
+          "parties": {
+            "NYS": {
+              "pct": 58.87,
+              "seats": 4
+            },
+            "STV": {
+              "pct": 41.13,
+              "seats": 3
+            }
+          }
+        }
+      ]
     },
     "vogar": {
       "totalSeats": 7,
