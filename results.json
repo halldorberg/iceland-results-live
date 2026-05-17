@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T02:13:39Z",
+  "updatedAt": "2026-05-17T02:18:32Z",
   "munis": {
     "akranes": {
       "totalSeats": 9,
@@ -291,7 +291,22 @@
     },
     "blaskogabyggd": {
       "totalSeats": 7,
-      "snapshots": []
+      "snapshots": [
+        {
+          "at": "2026-05-17T02:14:53Z",
+          "votesCounted": 683,
+          "parties": {
+            "BST": {
+              "pct": 68.47,
+              "seats": 5
+            },
+            "BSP": {
+              "pct": 31.53,
+              "seats": 2
+            }
+          }
+        }
+      ]
     },
     "bolungarvik": {
       "totalSeats": 7,
